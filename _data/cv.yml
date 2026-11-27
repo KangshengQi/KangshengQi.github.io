@@ -12,7 +12,9 @@ cv:
         area: Computer Science
         studyType: M.Sc.
         start_date: 2025-09
-        end_date: present
+        end_date: 2027-07
+        highlights:
+          - "Expected graduation: 07/2027"
 
       - institution: University of Texas at Austin
         location: Austin, USA
@@ -31,20 +33,20 @@ cv:
         location: Pittsburgh, USA
         start_date: 2026-06
         end_date: present
-        summary: "Advisor: Prof. Martin Jinye Zhang"
+        summary: "Advisors: Prof. Martin Jinye Zhang, Prof. Michelle Li"
         highlights:
-          - Integrate cell type information into KGWAS, a knowledge graph-based machine learning model to enhance genome-wide association study
+          - Integrate cell-type information into KGWAS, a knowledge graph-based machine learning model to enhance genome-wide association studies
           - Improve KGWAS stability and develop robust methods for interpreting disease-relevant links and uncovering underlying biological mechanisms
 
       - company: Biomedical Informatics Group, ETH Zurich
         position: Graduate Researcher
         location: Zurich, Switzerland
         start_date: 2025-09
-        end_date: present
+        end_date: 2026-09
         summary: "Advisor: Prof. Gunnar Rätsch"
         highlights:
-          - Train sparse autoencoders (SAEs) to interpret clinical time-series foundation models
-          - Design an intervention framework to steer SAE features to control model predictions
+          - Trained sparse autoencoders (SAEs) to interpret clinical time-series foundation models
+          - Designed an intervention framework to steer SAE features to control model predictions
 
       - company: Can Cenik Lab, University of Texas at Austin
         position: Undergraduate Researcher
@@ -79,10 +81,10 @@ cv:
         summary: "Yue Liu, Shilpa Rao, Ian Hoskins, Michael Geng, Qiuxia Zhao, Jonathan Chacko, Vighnesh Ghatpande, **Kangsheng Qi**, Logan Persyn, Jun Wang, Dinghai Zheng, Yochen Zhong, Dayea Park, Elif Sarinay Cenik, Vikram Agarwal, Hakan Ozadam, Can Cenik"
 
     Manuscripts:
-      - bullet: "**Kangsheng Qi**, Manuel Burger, Moritz Miller, Gunnar Rätsch. (2026). Interpreting and Steering Clinical Foundation Models through Sparse Autoencoders. *Under review at IEEE Conference on Secure and Trustworthy Machine Learning.*"
+      - bullet: "**Kangsheng Qi**, Manuel Burger, Moritz Miller, Gunnar Rätsch. (2026). Interpreting and Steering Clinical Foundation Models through Sparse Autoencoders. *Manuscript completed, available upon request.*"
 
     Presentations:
-      - bullet: "**Kangsheng Qi**, Can Cenik. (2025). Graph-based Approaches for Protein Network Analysis and Function Prediction. Poster at MBS Retreat."
+      - bullet: "**Kangsheng Qi**, Can Cenik. (2025). Graph-based Approaches for Protein Network Analysis and Function Prediction. Poster at Molecular Biosciences Retreat, UT Austin."
       - bullet: "**Kangsheng Qi**, Joshua Chang. (2024). Deep Learning Approaches for Time Series Forecasting of NICU Heart Rate Data. Poster and talk at TACCSTER Symposium. [doi:10.26153/tsw/55885](https://doi.org/10.26153/tsw/55885)"
 
     Awards:
@@ -92,20 +94,36 @@ cv:
 
       - title: Undergraduate Research Fellowship ($1,000)
         date: 2024-12
-        summary: Awarded to support research on modeling physiological signals in preterm infants.
+        summary: Awarded to support continued research on modeling physiological signals in preterm infants.
 
       - title: Moncrief Summer Research Fellowship ($8,000)
         date: 2024-06
-        summary: Supported undergraduate research project in the Physiological Laboratories at Dell Medical School, supervised by Prof. Joshua Chang.
+        summary: Awarded to support summer research in the Physiological Laboratories at Dell Medical School, supervised by Prof. Joshua Chang.
 
     Teaching:
       - bullet: "**Teaching Assistant**, MAS ETH in AI and Digital Technology, ETH Zurich (09/2026 – present). Instructor: Dr. Carlos Cotrini"
       - bullet: "**Course Assistant**, Probability I, University of Texas at Austin (08/2023 – 12/2023). Instructor: Prof. John Luecke"
 
+    Professional Service:
+      - bullet: "Conference Paper Reviewer, RECOMB 2027"
+
+    Skills:
+      - name: Programming
+        icon: fa-solid fa-code
+        keywords: "Python, R, Java, Bash, LaTeX"
+
+      - name: Libraries
+        icon: fa-solid fa-cubes
+        keywords: "PyTorch, Hugging Face, scikit-learn, NumPy, pandas"
+
+      - name: Biomedical data
+        icon: fa-solid fa-dna
+        keywords: "Single-cell RNA-seq, ribosome profiling (Ribo-seq), GWAS summary statistics, ICU time series"
+
     Academic Interests:
       - name: Research
         icon: fa-solid fa-dna
-        keywords: "Computational modeling and analysis of biological networks, Interpretability and explainability of biomedical models"
+        keywords: "Interpretable multimodal models that reveal how genetic variation and perturbations propagate through context-specific molecular networks to cause disease"
 
     Languages:
       - name: English
