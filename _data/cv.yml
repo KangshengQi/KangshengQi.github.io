@@ -24,7 +24,7 @@ cv:
         end_date: 2025-08
         highlights:
           - "Advisor: Prof. Can Cenik"
-          - "Thesis: Graph-based Approaches for Protein Network Analysis and Function Prediction ([link](https://apps.cs.utexas.edu/apps/tech-reports/206110))"
+          - "Thesis: Graph-based approaches for protein network analysis and function prediction ([link](https://apps.cs.utexas.edu/apps/tech-reports/206110))"
 
     Experience:
       - company: Martin Zhang Lab, Carnegie Mellon University
@@ -67,7 +67,7 @@ cv:
           - Evaluated deep learning models for heart rate time-series forecasting in preterm infants
 
     Publications:
-      - title: Topological and Functional Characterization of Human Translation Efficiency Covariation Network
+      - title: Topological and functional characterization of human translation efficiency covariation network
         publisher: Bioinformatics
         releaseDate: 2025
         url: https://doi.org/10.1093/bioinformatics/btaf583
@@ -80,11 +80,11 @@ cv:
         summary: "Yue Liu, Shilpa Rao, Ian Hoskins, Michael Geng, Qiuxia Zhao, Jonathan Chacko, Vighnesh Ghatpande, **Kangsheng Qi**, Logan Persyn, Jun Wang, Dinghai Zheng, Yochen Zhong, Dayea Park, Elif Sarinay Cenik, Vikram Agarwal, Hakan Ozadam, Can Cenik"
 
     Manuscripts:
-      - bullet: "**Kangsheng Qi**, Manuel Burger, Moritz Miller, Gunnar Rätsch. (2026). Interpreting and Steering Clinical Foundation Models through Sparse Autoencoders. *Manuscript completed, available upon request.*"
+      - bullet: "**Kangsheng Qi**, Manuel Burger, Moritz Miller, Gunnar Rätsch. (2026). Interpreting and steering clinical foundation models through sparse autoencoders. *Manuscript completed, available upon request.*"
 
     Presentations:
-      - bullet: "**Kangsheng Qi**, Can Cenik. (2025). Graph-based Approaches for Protein Network Analysis and Function Prediction. Poster at Molecular Biosciences Retreat, UT Austin."
-      - bullet: "**Kangsheng Qi**, Joshua Chang. (2024). Deep Learning Approaches for Time Series Forecasting of NICU Heart Rate Data. Poster and talk at TACCSTER Symposium. [doi:10.26153/tsw/55885](https://doi.org/10.26153/tsw/55885)"
+      - bullet: "**Kangsheng Qi**, Can Cenik. (2025). Graph-based approaches for protein network analysis and function prediction. Poster at Molecular Biosciences Retreat, UT Austin."
+      - bullet: "**Kangsheng Qi**, Joshua Chang. (2024). Deep learning approaches for time series forecasting of NICU heart rate data. Poster and talk at TACCSTER Symposium. [doi:10.26153/tsw/55885](https://doi.org/10.26153/tsw/55885)"
 
     Awards:
       - title: College Scholar (2024, 2025)
